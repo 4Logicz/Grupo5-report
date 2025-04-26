@@ -432,8 +432,5 @@ graph TD
     L -->|No| N[Reintentar/Alternativas]
 ```
 ### 4.5. Web Applications Prototyping
-### 1. Core Interactive Prototypes
-#### A. Main User Journey (Figma)
-```plaintext
-[Home] → [Search Results] → [Vehicle Detail] → [Booking Form] → [Payment] → [Confirmation]
-```
+![image](https://github.com/user-attachments/assets/3e23d0f2-b2ac-4850-abf2-c1f7090a839c)
+![image](https://github.com/user-attachments/assets/6aef9684-4fe6-4c6c-ae7b-a7b383f5aadc)
