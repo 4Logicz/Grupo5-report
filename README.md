@@ -350,4 +350,26 @@
     - Enlaces rápidos (`Empresa | Servicios | Información`).
     - Boletin informativo: Campo `"Correo"` + Botón `"Suscribir"`.
 - **Derechos de autor**:  
-  - `"© 2024 AutoElite. Todos los derechos reservados."` (centrado).  
+  - `"© 2024 AutoElite. Todos los derechos reservados."` (centrado).
+  
+### 4.4.2. Web Applications Wireflow Diagrams
+### Flujo Principal: Reserva de Auto
+```mermaid
+graph TD
+    A[Pantalla Inicio] -->|Clic en Búsqueda| B(Explorar Autos)
+    B --> C{Selección}
+    C -->|Clic Card Auto| D[Detalle Auto]
+    C -->|Aplica Filtros| B
+    D --> E{Acción}
+    E -->|Reservar| F[Checkout]
+    E -->|Volver| B
+    F --> G[Pago]
+    G --> H[Confirmación]
+```
+graph LR
+    I[Pantalla Perfil] --> J{Mis Reservas}
+    J -->|Selecciona Reserva| K[Detalle Reserva]
+    K --> L{Acción}
+    L -->|Cancelar| M[Modal Confirmación]
+    M -->|Sí| N[Estado: "Cancelada"]
+    M -->|No| K
