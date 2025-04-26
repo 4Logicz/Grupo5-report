@@ -409,3 +409,25 @@ graph BT
 ![image](https://github.com/user-attachments/assets/fa01cae2-34dc-450a-b419-4b22f8cf5655)
 ![image](https://github.com/user-attachments/assets/cd95eb39-0135-473b-b69d-10ad7574307f)
 ![image](https://github.com/user-attachments/assets/23394274-2c09-4a71-86c3-f1a4564fc493)
+
+### 4.4.3. Web Applications User Flow Diagrams
+
+### Flujo Completo: Reserva de Auto
+```mermaid
+graph TD
+    A[Inicio] --> B[/"Barra de búsqueda\n(ubicación, fechas)"/]
+    B --> C{¿Filtros?}
+    C -->|Sí| D[Pantalla de Filtros]
+    C -->|No| E[Listado de Autos]
+    D --> E
+    E --> F[/"Selección de auto\n(click en card)"/]
+    F --> G[Detalle de Auto]
+    G --> H{¿Disponible?}
+    H -->|Sí| I[Formulario de Reserva]
+    H -->|No| J[Notificación: "No disponible"]
+    J --> E
+    I --> K[Checkout de Pago]
+    K --> L{¿Pago exitoso?}
+    L -->|Sí| M[Confirmación + Email]
+    L -->|No| N[Reintentar/Alternativas]
+```
