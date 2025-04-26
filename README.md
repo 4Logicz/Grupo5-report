@@ -388,15 +388,11 @@ graph BT
 ### 4.4.2. Web Applications Mock-ups.
 **Propósito**: Punto de entrada para exploración de autos  
 
--*Verison Desktop:
+*Verison Desktop:
 ![image](https://github.com/user-attachments/assets/32383611-fb47-493b-a7c1-7f1bf7a74b96)
 ![image](https://github.com/user-attachments/assets/20a60f79-2507-4790-8865-6e76df85f5dd)
 ![image](https://github.com/user-attachments/assets/81d3b2ae-3700-45da-95ca-1b61044c0f32)
 ![image](https://github.com/user-attachments/assets/512072fa-7822-4c22-bf89-8c9af839ab92)
 ![image](https://github.com/user-attachments/assets/da78db8a-310b-4160-ba0a-953e41be3192)
--*Verison Mobile:
+*Verison Mobile:
 ![image](https://github.com/user-attachments/assets/72ca3b6f-ae9d-42fd-963e-93740854688e)
-
-
-
-
