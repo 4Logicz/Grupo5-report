@@ -319,3 +319,73 @@ Segmento Objetivo 2: María Lopez
 
     </tbody>
 </table>
+
+## 3.3. Impact Mapping
+
+Impact map de nuestros segmentos objetivos
+
+<img src="/assets/c03/Impact Mapping.png">
+
+## 3.4. Product Backlog
+Utilizamos la escala de Fibonacci para la estimación de los Story Points.
+
+<table>
+    <thead>
+        <tr>
+            <th>Epic / Story ID</th>
+            <th>Título</th>
+            <th>Descripción</th>
+            <th>Story Points (1/2/3/5/8)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>HU01</td>
+            <td>Registrar cuenta</td>
+            <td><strong>Como</strong> usuario, <strong>deseo</strong> crear una nueva cuenta para entrar a la plataforma.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>HU04</td>
+            <td>Verificación de identidad</td>
+            <td><strong>Como</strong> propietario y arrendatario, <strong>deseo</strong> que la plataforma verifique la identidad de los usuarios para asegurar la confiabilidad.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>HU06</td>
+            <td>Publicar un vehículo para alquiler</td>
+            <td><strong>Como</strong> propietario, <strong>deseo</strong> publicar mi vehículo para que pueda ser alquilado.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>HU07</td>
+            <td>Buscar vehículos disponibles</td>
+            <td><strong>Como</strong> arrendatario, <strong>deseo</strong> buscar vehículos disponibles cerca de mi ubicación para alquilar.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>HU08</td>
+            <td>Reservar un vehículo</td>
+            <td><strong>Como</strong> arrendatario, <strong>deseo</strong> reservar un vehículo para una fecha y hora específicas.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>HU11</td>
+            <td>Calcular tarifas de alquiler</td>
+            <td><strong>Como</strong> usuario, <strong>deseo</strong> ver el costo total del alquiler antes de confirmar la reserva.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>HU13</td>
+            <td>Ver historial de alquileres</td>
+            <td><strong>Como</strong> arrendatario, <strong>deseo</strong> ver el historial de mis alquileres anteriores para llevar un registro de mis transacciones.</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>HU14</td>
+            <td>Recibir notificaciones de disponibilidad de vehículos</td>
+            <td><strong>Como</strong> arrendatario, <strong>deseo</strong> recibir notificaciones cuando un vehículo que me interesa esté disponible.</td>
+            <td>1</td>
+        </tr>
+    </tbody>
+</table>
