@@ -326,3 +326,21 @@
   - **Mobile**: Menú hamburguesa (íconos + texto).  
 
 ---
+#### **2. Cuerpo (Main Content)**  
+**Objetivo**: Mostrar opciones de autos de forma clara y accionable. 
+- **Tipo de auto
+  "Encuentra el auto perfecto para tu viaje"
+🚗 Ciudad  🏔️ Aventura  💼 Negocios  🏖️ Vacaciones
+---
+
+#### **3. Footer**  
+**Objetivo**: Proporcionar información secundaria y enlaces útiles.  
+- **Sección 2 columnas**:  
+  - **Encima**:  
+    - Información de RentGo.  
+    - Redes sociales: `FB | Instagram | X | Youtube`.    
+  - **Debajo**:  
+    - Enlaces rápidos (`Empresa | Servicios | Información`).
+    - Boletin informativo: Campo `"Correo"` + Botón `"Suscribir"`.
+- **Derechos de autor**:  
+  - `"© 2024 AutoElite. Todos los derechos reservados."` (centrado).  
