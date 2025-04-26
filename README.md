@@ -424,7 +424,7 @@ graph TD
     F --> G[Detalle de Auto]
     G --> H{¿Disponible?}
     H -->|Sí| I[Formulario de Reserva]
-    H -->|No| J[Notificación: "No disponible"]
+    H -->|No| J[Notificación: No disponible]
     J --> E
     I --> K[Checkout de Pago]
     K --> L{¿Pago exitoso?}
