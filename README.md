@@ -388,9 +388,5 @@ graph BT
 ### 4.4.2. Web Applications Mock-ups.
 **Propósito**: Punto de entrada para exploración de autos  
 
-![Mockup Home Desktop](https://figma.com/file/FPFdTW5b4CAq0iDhafmAhK/Rent2Go?node-id=0-1#0)  
-
-#### Componentes Clave:  
-- **Hero Section**:  
-  - Imagen de fondo: *Familia feliz con auto alquilado* (optimizada para web, 1920x800px)  
-  - CTA Principal: `"Buscar autos disponibles"` (Botón azul #2A5CAA, sombra 0px 4px 12px rgba(42, 92, 170, 0.2))  
+-*Verison Desktop:
+![image](https://github.com/user-attachments/assets/32383611-fb47-493b-a7c1-7f1bf7a74b96)
