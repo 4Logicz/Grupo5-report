@@ -376,3 +376,12 @@ graph LR
     M -->|Sí| N[Estado: Cancelada]
     M -->|No| K
 ```
+### Flujo Mobile
+```mermaid
+graph BT
+    O[Home] --> P{Búsqueda}
+    P -->|Scroll| Q[Autos Nearby]
+    Q --> R[Detalle Expandido]
+    R --> S[Checkout Sticky Footer]
+    S --> T[Pago Fullscreen]
+```
