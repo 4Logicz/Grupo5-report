@@ -431,3 +431,9 @@ graph TD
     L -->|Sí| M[Confirmación + Email]
     L -->|No| N[Reintentar/Alternativas]
 ```
+### 4.5. Web Applications Prototyping
+### 1. Core Interactive Prototypes
+#### A. Main User Journey (Figma)
+```plaintext
+[Home] → [Search Results] → [Vehicle Detail] → [Booking Form] → [Payment] → [Confirmation]
+```
