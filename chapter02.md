@@ -483,3 +483,83 @@ Los usuarios entrevistados suelen tener una edad joven y se entiende que gran pa
 Cabe resaltar que se menciona que el monto de transporte semanal en los entrevistados es elevado lo que refleja que existe un gasto considerable, de la misma forma, no optan por alquilar un auto debido al costo que este inclute, la falta de opciones y los trámites tediosos. Lo que refuerza nuestra idea de negocio.
 
 Táctica: Incluir características como verificación de identidad, historial de alquileres, seguros integrados y monitoreo de vehículos por GPS.
+
+## 2.3. Needfinding
+
+En esta sección se muestra el proceso de análisis de la información recolectada en las entrevistas. Se incluyen los User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping
+
+### 2.3.1. User Personas
+
+A continuación brindamos las fichas de User Persona elaboradas a partir del análisis de las entrevistas realizadas.
+
+<img src="/assets/c02/User-Persona-Propietario-Juan Pérez.png" width="1050" height="1289">
+
+<img src="/assets/c02/User-Persona-Propietario-María Lopez.png" width="1050" height="1289">
+
+### 2.3.2. User Task Matrix
+
+A continuación se muestra el proceso para la realizacion del User Task Matrix para comprender las tareas que realizan los User Persona para cumplir sus objetivos.
+
+| Tarea                         | María López    | Juan Pérez     |
+|-------------------------------|----------------|----------------|
+| Explorar opciones de alquiler | Alta - Media   | Baja - Media   |
+| Reservar-Alquilar un vehículo | Media - Alta   | Baja - Alta    |
+| Gestionar el alquiler         | Baja - Baja    | Baja - Media   |
+| Seguridad y monitoreo         | Alta - Alta    | Baja - Alta    |
+| Devolución del vehículo       | Baja - Alta    | Baja - Media   |
+
+Tareas con mayor frecuencia e importancia
+
+- Seguridad y monitoreo: Esta tarea es la más importante y frecuentemente realizada tanto para María como para Juan. Para ambos, la seguridad es una prioridad. En el caso de María, busca seguridad principalmente para ella como arrendataria, mientras que Juan se preocupa por el estado de su vehículo cuando es alquilado.
+
+- Reservar/Alquilar un vehículo: La importancia de esta tarea es alta para ambos usuarios, ya que es un punto clave en la experiencia de uso de la plataforma. Sin embargo, para María, esta tarea no es tan frecuente, ya que solo alquila vehículos en ocasiones puntuales. Por su parte, Juan también la considera importante porque es fundamental para generar ingresos.
+
+Principales diferencias
+
+- Explorar opciones de alquiler: María explora opciones de alquiler con mayor frecuencia que Juan, pues ella es arrendataria y necesita encontrar un vehículo que se ajuste a sus necesidades y preferencias, como el costo y la seguridad. Juan, en cambio, es propietario de un vehículo y esta tarea no es tan relevante para él, ya que su enfoque está en alquilar su propio coche.
+
+- Gestionar el alquiler: Para María, la gestión del alquiler es menos importante. Solo necesita asegurarse de que el vehículo que ha alquilado esté disponible y en buen estado. Juan, sin embargo, gestiona más frecuentemente este proceso porque busca mantener control sobre el uso de su vehículo mientras está alquilado, asegurándose de que no se dañe y se cumplan las condiciones acordadas.
+
+Coincidencias
+
+Ambos usuarios comparten una fuerte preocupación por la seguridad y el monitoreo del vehículo, aunque por motivos diferentes. María se enfoca en sentirse segura mientras usa el servicio, mientras que Juan se preocupa por el estado de su vehículo mientras está en manos de un arrendatario. Esto resalta que cualquier plataforma P2P debe priorizar funciones de seguridad para satisfacer tanto a los arrendatarios como a los propietarios.
+
+### 2.3.3. User Journey Mapping
+
+A continuación se muestra el proceso para la realización del User Journey Mapping para los User Persona con el fin de entender las experiencias del usuario sin nuestra solución.
+
+User Journey Mapping para Juan Pérez:
+
+<div align="center">
+    <img src="/assets/c02/journey-map-1.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+User Journey Mapping para María López:
+
+<div align="center">
+    <img src="/assets/c02/journey-map-2.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+### 2.3.4. Empathy Mapping
+
+A continuación se muestra el proceso para la realización del Empathy Mapping para los User Persona con el fin de entender lo que piensa, siente, oye, hace y observa.
+
+<div align="center">
+    <img src="/assets/c02/image2.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+<div align="center">
+    <img src="/assets/c02/image4.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+### 2.3.5. As-is Scenario Mapping
+
+A continuación se muestra el proceso para la realización del As-Is Scenario Mapping para los User Persona.
+
+<div align="center">
+    <img src="/assets/c02/image1.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+<div align="center">
+    <img src="/assets/c02/asis.png" style="margin: 10px 0;" width="80%"/>
+</div>
