@@ -373,6 +373,6 @@ graph LR
     J -->|Selecciona Reserva| K[Detalle Reserva]
     K --> L{Acción}
     L -->|Cancelar| M[Modal Confirmación]
-    M -->|Sí| N[Estado: "Cancelada"]
+    M -->|Sí| N[Estado: Cancelada]
     M -->|No| K
 ```
