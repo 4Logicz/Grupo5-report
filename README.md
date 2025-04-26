@@ -396,7 +396,7 @@ graph BT
 ![image](https://github.com/user-attachments/assets/da78db8a-310b-4160-ba0a-953e41be3192)
   
 *Version Mobile:*
-![image](https://github.com/user-attachments/assets/72ca3b6f-ae9d-42fd-963e-93740854688e)
+
 ![image](https://github.com/user-attachments/assets/55395056-258a-46e6-876c-72c58142f51d)
 ![image](https://github.com/user-attachments/assets/de91da68-fd9c-4f50-b931-f8bf9fde6c95)
 ![image](https://github.com/user-attachments/assets/5af5fcec-b748-4509-8ec2-9384cffcca43)
