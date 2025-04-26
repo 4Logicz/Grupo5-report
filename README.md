@@ -322,7 +322,7 @@
   - Enlace a la página de inicio.  
   - Estilo consistente.
 - **Menú de navegación**:  
-  - **Desktop**: Tabs horizontales (`Inicio | Autos | Mis Reservas | Soporte`).  
+  - **Desktop**: Tabs horizontales (`Inicio | Vehículos | ¿Cómo funciona? | Requisitos | Preguntas | Contacto`).  
   - **Mobile**: Menú hamburguesa (íconos + texto).  
 
 ---
