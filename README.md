@@ -366,6 +366,8 @@ graph TD
     F --> G[Pago]
     G --> H[Confirmación]
 ```
+### Flujo Alternativo: Cancelación
+```
 graph LR
     I[Pantalla Perfil] --> J{Mis Reservas}
     J -->|Selecciona Reserva| K[Detalle Reserva]
@@ -373,3 +375,4 @@ graph LR
     L -->|Cancelar| M[Modal Confirmación]
     M -->|Sí| N[Estado: "Cancelada"]
     M -->|No| K
+```
