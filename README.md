@@ -320,4 +320,9 @@
 
 - **Logo (Superior izquierda)**:  
   - Enlace a la página de inicio.  
-  - Estilo consistente.  
+  - Estilo consistente.
+- **Menú de navegación**:  
+  - **Desktop**: Tabs horizontales (`Inicio | Autos | Mis Reservas | Soporte`).  
+  - **Mobile**: Menú hamburguesa (íconos + texto).  
+
+---
