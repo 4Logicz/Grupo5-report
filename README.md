@@ -312,4 +312,6 @@
 - Animaciones suaves  
 - Estados hover  
 - Transiciones de modo oscuro  
-- Menú móvil responsive  
+- Menú móvil responsive
+
+## 4.4. Web Applications UX/UI Design.
