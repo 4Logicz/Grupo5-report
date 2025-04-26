@@ -395,5 +395,22 @@ graph BT
 ![image](https://github.com/user-attachments/assets/512072fa-7822-4c22-bf89-8c9af839ab92)
 ![image](https://github.com/user-attachments/assets/da78db8a-310b-4160-ba0a-953e41be3192)
   
--*Version Mobile:*
+*Version Mobile:*
 ![image](https://github.com/user-attachments/assets/72ca3b6f-ae9d-42fd-963e-93740854688e)
+![image](https://github.com/user-attachments/assets/55395056-258a-46e6-876c-72c58142f51d)
+![image](https://github.com/user-attachments/assets/de91da68-fd9c-4f50-b931-f8bf9fde6c95)
+![image](https://github.com/user-attachments/assets/5af5fcec-b748-4509-8ec2-9384cffcca43)
+![image](https://github.com/user-attachments/assets/c30b3d44-d92d-4f11-bc07-7cd4f4f973c4)
+![image](https://github.com/user-attachments/assets/f12271fd-5abf-4fd9-9517-995e52744af0)
+![image](https://github.com/user-attachments/assets/56cd907e-1cbd-46a0-9bed-035d963ecd1d)
+![image](https://github.com/user-attachments/assets/fa01cae2-34dc-450a-b419-4b22f8cf5655)
+![image](https://github.com/user-attachments/assets/cd95eb39-0135-473b-b69d-10ad7574307f)
+![image](https://github.com/user-attachments/assets/23394274-2c09-4a71-86c3-f1a4564fc493)
+
+
+
+
+
+
+
+
