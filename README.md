@@ -315,3 +315,9 @@
 - Menú móvil responsive
 
 ## 4.4. Web Applications UX/UI Design.
+### 4.4.1. Web Applications Wireframes
+**Objetivo**: Brindar acceso rápido a funciones principales y mantener al usuario orientado.  
+
+- **Logo (Superior izquierda)**:  
+  - Enlace a la página de inicio.  
+  - Estilo consistente.  
