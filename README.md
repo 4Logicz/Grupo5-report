@@ -316,6 +316,7 @@
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes
+#### **1. Cabecera (Header)** 
 **Objetivo**: Brindar acceso rápido a funciones principales y mantener al usuario orientado.  
 
 - **Logo (Superior izquierda)**:  
@@ -331,6 +332,12 @@
 - **Tipo de auto
   "Encuentra el auto perfecto para tu viaje"
 🚗 Ciudad  🏔️ Aventura  💼 Negocios  🏖️ Vacaciones
+```card
+[🖼️ Jeep Wrangler 2024]  🔥 Popular
+★★★★☆ (128)  |  $120/día
+👥5  🛄4  🛣️4x4  ⛽Eléctrico
+[🔵 Reservar ahora]
+```
 ---
 
 #### **3. Footer**  
