@@ -367,7 +367,7 @@ graph TD
     G --> H[Confirmación]
 ```
 ### Flujo Alternativo: Cancelación
-```
+```mermaid
 graph LR
     I[Pantalla Perfil] --> J{Mis Reservas}
     J -->|Selecciona Reserva| K[Detalle Reserva]
