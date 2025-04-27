@@ -185,7 +185,7 @@ logro del student outcome.
                 - Carlos Gonzalez: El presente trabajo nos ayudo a contribuir de manera conjunta para lograr un mismo objetivo, logrando satisfactoriamente todas las tareas concernientes a este proyecto.<br/>
                 - Ario Chavez: Durante esta entrega se realizó las partes más importantes del informe como la definición del proyecto. <br/>
                 - Fernando Salhuana: Al ofrecer soluciones efectivas y facilitar el progreso del proyecto, he asegurado que todos los aspectos importantes se aborden de manera oportuna, lo que ha mejorado la cohesión del equipo. <br/>
-                - Int5: 
+                - Carlos Alvarez: Durante esta entrega participé activamente en la coordinación del equipo, ayudando a distribuir de manera equitativa las tareas relacionadas al desarrollo, asegurando que cada integrante pudiera enfocarse en su especialidad, optimizando así los tiempos de entrega. 
             </td>
             <td>
                 TB1: <br/>
@@ -193,7 +193,7 @@ logro del student outcome.
                 - Carlos Gonzalez: Se logro concluir con lo asignado para este proyecto en conjunto.<br/>
                 - Ario Chavez: Se cumplerion con todos los puntos a nivel informe proyectando para neuvas funcionalidades en nuestra aplicación. <br/>
                 - Fernando Salhuana: Se cumplió con los plazos y estándares esperados. Los informes han sido claros y concisos, facilitando la comprensión del contenido.<br/>
-                - Int5:
+                - Carlos Alvarez: Se fortaleció el trabajo en equipo mediante una comunicación constante y eficiente, logrando cumplir con los roles asignados y asegurando que el proyecto avanzara de forma colaborativa y efectiva.
             </td>
         </tr>
         <tr>
@@ -204,7 +204,7 @@ logro del student outcome.
                 - Carlos Gonzalez: Pudimos designarnos de manera equitativa diferentes metas para lograr concluir el presente trabajo.<br/>
                 - Ario Chavez: Se utilizaron múltiples herramientas necesarias para el proyecto. <br/>
                 - Fernando Salhuana: Se utilizó las habilidades blandas para optimizar las puntos críticos del proyecto. <br/>
-                - Int5:
+                - Carlos Alvarez: Participé en la organización del flujo de trabajo dividiendo el proyecto en fases lógicas. Asigné prioridades a funcionalidades clave. También facilité la revisión entre compañeros para detectar errores a tiempo y mejorar la calidad del código.
             </td>
             <td>
                 TB1: <br/>
@@ -212,7 +212,7 @@ logro del student outcome.
                 - Carlos Gonzalez: Logramos concluir todos los objetivos propuestos.<br/>
                 - Ario Chavez: Se concretaron todas las tareas previsas en el proyecto. <br/>
                 - Fernando Salhuana: Se cumplió con los objetivos propuestos y con antelación. <br/>
-                - Int5:
+                - Carlos Alvarez: Se cumplieron todos los objetivos establecidos de manera eficiente, optimizando los tiempos de entrega y garantizando que el proyecto final cumpliera con los estándares de calidad en desarrollo web.
             </td>
         </tr>
     </tbody>
