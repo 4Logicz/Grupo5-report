@@ -183,7 +183,7 @@ logro del student outcome.
                 TB1: <br/>
                 - Yair Aru: Durante esta entrega se distribuyo las tareas asignadas entre los miembros del equipo y se logró implementar la landing page.<br/>
                 - Carlos Gonzalez: El presente trabajo nos ayudo a contribuir de manera conjunta para lograr un mismo objetivo, logrando satisfactoriamente todas las tareas concernientes a este proyecto.<br/>
-                - Int3: <br/>
+                - Ario Chavez: Durante esta entrega se realizó las partes más importantes del informe como la definición del proyecto. <br/>
                 - Int4: <br/>
                 - Int5: 
             </td>
@@ -191,7 +191,7 @@ logro del student outcome.
                 TB1: <br/>
                 - Yair Aru: Se estructuró de manera adecuada todos los puntos asignados para la entrega.<br/>
                 - Carlos Gonzalez: Se logro concluir con lo asignado para este proyecto en conjunto.<br/>
-                - Int3: <br/>
+                - Ario Chavez: Se cumplerion con todos los puntos a nivel informe proyectando para neuvas funcionalidades en nuestra aplicación. <br/>
                 - Int4: <br/>
                 - Int5:
             </td>
@@ -202,7 +202,7 @@ logro del student outcome.
                 TB1: <br/>
                 - Yair Aru: Para este outcome, se utilizaron las herramientas de Trello para la distribucion y planificación de las tareas asignadas a realizar<br/>
                 - Carlos Gonzalez: Pudimos designarnos de manera equitativa diferentes metas para lograr concluir el presente trabajo.<br/>
-                - Int3: <br/>
+                - Ario Chavez: Se utilizaron múltiples herramientas necesarias para el proyecto. <br/>
                 - Int4: <br/>
                 - Int5:
             </td>
@@ -210,7 +210,7 @@ logro del student outcome.
                 TB1: <br/>
                 - Yair Aru: Se logró con exito, completar las tareas asignadas para esta entrega.<br/>
                 - Carlos Gonzalez: Logramos concluir todos los objetivos propuestos.<br/>
-                - Int3: <br/>
+                - Ario Chavez: Se concretaron todas las tareas previsas en el proyecto. <br/>
                 - Int4: <br/>
                 - Int5:
             </td>
