@@ -353,7 +353,7 @@
   - `"© 2024 AutoElite. Todos los derechos reservados."` (centrado).
   
 ### 4.4.2. Web Applications Wireflow Diagrams
-![image](https://github.com/user-attachments/assets/bccfb33d-26be-4f99-9cd9-74ba55a07e02)
+![image](https://github.com/user-attachments/assets/bff17da3-34ef-4960-aa9b-113e03b45f71)
 
 ### 4.4.2. Web Applications Mock-ups.
 **Propósito**: Punto de entrada para exploración de autos  
