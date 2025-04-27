@@ -323,7 +323,7 @@ A continuación se presenta el registro de las entrevistas realizadas a los segm
 - Apellidos: Sulca 
 - Edad: 33
 - Distrito: Pueblo Libre
-- Link de la entrevista: <a href="link">Entrevista</a>
+- Link de la entrevista: <a href="[link](https://drive.google.com/file/d/1lhF1MRvqO_znf4bpAuquj9yN6EvKG8Hy/view)">Entrevista</a>
 - Duración: 1:06 minutos
 - Inicio de la entrevista: 0:01 
 
@@ -392,23 +392,23 @@ Resumen de la entrevista:
 
 <b> Entrevista 4 </b> 
 
-- Nombre:
-- Apellidos:
-- Edad:
-- Distrito:
+- Nombre: Esaut
+- Apellidos: Salhuana
+- Edad: 26
+- Distrito: Ate
 - Link de la entrevista: <a href="link">Entrevista</a> 
-- Duración:
-- Inicio de la entrevista:
+- Duración: 2:11
+- Inicio de la entrevista: 0:01
 
 Evidencia de la reunión:
 
 <div align="center">
-    <img src="/assets/c02/" style="margin: 10px 0;" width="80%"/>
+    <img src="/assets/c02/carlos.png" style="margin: 10px 0;" width="80%"/>
 </div>
 
 Resumen de la entrevista:
 
--
+-La persona entrevista comenta que su casa tiene un espacion amplio para estacionar, de cual seria una gran oportunidad para generar ingresos. Además, menciona que es muy importante el tema de la seguridad de la aplicación ya que a pesar de eso, él tiene su propio sistema de seguridad. También, asegura que nunca escuchó o se enteró sobre alguna aplicación similar.
 
 <br>
 
