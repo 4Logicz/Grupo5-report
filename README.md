@@ -168,7 +168,9 @@ Criterio: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan 
 En el siguiente cuadro, se indicarán las acciones realizadas y conclusiones
 de los integrantes del grupo que evidencien y sustenten que se desarrollo el
 logro del student outcome.
-
+<table>
+    <thead>
+        <tr>
             <th>Criterio específico</th>
             <th>Acciones realizadas</th>
             <th>Conclusiones</th>
@@ -177,13 +179,41 @@ logro del student outcome.
     <tbody>
         <tr>
             <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
-            <td></td>
-            <td></td>
+            <td>
+                TB1: <br/>
+                - Yair Aru: Durante esta entrega se distribuyo las tareas asignadas entre los miembros del equipo y se logró implementar la landing page.<br/>
+                - Int2: <br/>
+                - Int3: <br/>
+                - Int4: <br/>
+                - Int5: 
+            </td>
+            <td>
+                TB1: <br/>
+                - Yair Aru: Se estructuró de manera adecuada todos los puntos asignados para la entrega.<br/>
+                - Int2: <br/>
+                - Int3: <br/>
+                - Int4: <br/>
+                - Int5:
+            </td>
         </tr>
         <tr>
             <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</td>
-            <td></td>
-            <td></td>
+            <td>
+                TB1: <br/>
+                - Yair Aru: Para este outcome, se utilizaron las herramientas de Trello para la distribucion y planificación de las tareas asignadas a realizar<br/>
+                - Int2: <br/>
+                - Int3: <br/>
+                - Int4: <br/>
+                - Int5:
+            </td>
+            <td>
+                TB1: <br/>
+                - Yair Aru: Se logró con exito, completar las tareas asignadas para esta entrega.<br/>
+                - Int2: <br/>
+                - Int3: <br/>
+                - Int4: <br/>
+                - Int5:
+            </td>
         </tr>
     </tbody>
 </table>
