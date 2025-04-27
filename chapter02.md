@@ -330,12 +330,15 @@ A continuación se presenta el registro de las entrevistas realizadas a los segm
 Evidencia de la reunión:
 
 <div align="center">
-    <img src="/assets/c02/" style="margin: 10px 0;" width="80%"/>
+    <img src="/assets/c02/cesarsulca.png" style="margin: 10px 0;" width="80%"/>
 </div>
 
 Resumen de la entrevista:
 
--
+-La persona entrevistada expresa que tiene dos vehículos.
+-Solo usa los fines de semana por lo cual de lunes a viernes están sin uso.
+-Indica que nunca habia escuchado de aplicaciones sobre alquiler de autos.
+-Desconfía en primera impresión porque no sabe las medidas seguridad que ofrecen.
 
 <b> Entrevista 2 </b> 
 
