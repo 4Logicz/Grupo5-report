@@ -170,3 +170,291 @@ Esto nos permite mantener el código organizado, legible y coherente a lo largo 
 - US15:
 
 ![Gherkin15](./assets/c05/15.png)
+
+## 5.2. Landing Page, Services & Applications Implementation
+
+### 5.2.1. Sprint 1
+
+#### 5.2.1.1. Sprint Planning 1
+
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 1</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            25/04/25   
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            10:00         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad Remota por Whatsapp  
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes 4Logicz  
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Chavez Uribe, Ario Joel	<br>
+            - Alvarez Ponce, Carlos Antonio <br>
+            - Aru Acevedo, Yair Christofer <br>
+            - Gonzalez Custodio, Carlos Alberto <br>
+            - Salhuana Lopez, Fernando Jose <br>
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 1</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            No existe un sprint anterior para realizar el review, siendo este el primer sprint a desarrollar.  
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 1</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+          No existe un sprint anterior para realizar una retrospectiva. Sin embargo en base a lo avanzado debemos considerar prioridad en el buen desarrollo de las User Stories y el Product Backlog.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 1 Velocity</b>
+        </td>
+        <td>
+            6
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            6
+        </td>
+  </tr>
+</table>
+</br>
+
+#### 5.2.1.2. Sprint Backlog 1
+
+<br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 1</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="2">HU15</td>
+       <td rowspan="2">Visualizar página informativa</td>
+       <td>T01</td>
+       <td>Estructura de la landing</td>
+       <td>Programar el landing page comenzando por el HTML </td>
+       <td>0.1</td>
+       <td>Carlos Alvarez</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Agregar CSS styles</td>
+       <td>Asignar stilos generales para la página</td>
+       <td>0.1</td>
+       <td>Carlos Alvarez</td>
+       <td>Done</td>
+    </tr>
+       <td rowspan="2">HU17</td>
+       <td rowspan="2">Landing Page intuitiva</td>
+       <td>T10</td>
+       <td>Estructura Navbar</td>
+       <td>Crear HTML del navbar con direccionamiento a secciones</td>
+       <td>0.5</td>
+       <td>Carlos Alvarez</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T11</td>
+       <td>Estilos Navbar</td>
+       <td>Asignar stilos al navbar</td>
+       <td>0.5</td>
+       <td>Carlos Alvarez</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">HU18</td>
+       <td rowspan="2">Landing Page responsiva</td>
+       <td>T12</td>
+       <td>Main responsive</td>
+       <td>Agregar CSS media queries a las diferentes secciones del main</td>
+       <td>1.0</td>
+       <td>Carlos Alvarez</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T13</td>
+       <td>Navbar responsive</td>
+       <td>Agregar CSS media queries al navbar</td>
+       <td>0.5</td>
+       <td>Carlos Alvarez</td>
+       <td>Done</td>
+    </tr>
+</table>
+
+#### 5.2.1.3. Development Evidence for Sprint Review
+
+A continuación, se muestran los commits realizados en el repositorio para el Landing Page, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+
+Repositorio de la Landing Page en GitHub: <a href="https://github.com/1ASI0730-2510-4381-G5-RENT2GO/landing-page">Enlace_Repositorio</a>
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=19>Landing Page</td>
+        <td>main</td>
+        <td>be5ee1c673ff510729259e3e5f2a5c1827433240</td>
+        <td>Carlos Alvarez</td>
+        <td>Initial commit</td>
+        <td>26/04/2025</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>bf8c5c0b7fad07f17ea43bf0b3b84fdd13a62940</td>
+        <td>Carlos Alvarez</td>
+        <td>docs: npm run build</td>
+        <td>26/04/2025</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>fa415b46e3c9f883cf513d336566cf0a5396efaf</td>
+        <td>Carlos Alvarez</td>
+        <td>docs: Update vite.config.ts</td>
+        <td>26/04/2025</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>ad726112aedfba2ca089a92a1c154270c9444a82</td>
+        <td>Carlos Alvarez</td>
+        <td>docs: Update Header.vue</td>
+        <td>26/04/2025</td>
+    </tr>
+    
+</table>
+<br><br>
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+Al ser el primer sprint, y solo haber desarrollado el Landing Page no creemo necesario realizar testing de una Landing Page. Por lo que en la sección a continuación se muestra el Landing ya desplegado.
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+Tras el desarrolo de la Landing Page en el Sprint 1, obtuvimos el siguiente resultado:
+
+<b>Seccion Inicio</b>
+
+<div align="center">
+    <img src="./assets/c05/inicioLP.png" style="margin: 10px 0;" width="90%"/>
+</div>
+
+<b>Seccion ¿Por qué nosotros?</b>
+
+<div align="center">
+    <img src="./assets/c05/nosotrosLP.png"  style="margin: 10px 0;" width="90%"/>
+</div>
+
+<b>Seccion ¿Cómo Funciona?</b>
+
+<div align="center">
+    <img src="./assets/c05/funcionaLP.png"  style="margin: 10px 0;" width="90%"/>
+</div>
+
+<b>Seccion Contactanos</b>
+
+<div align="center">
+    <img src="./assets/c05/contactoLP.png" style="margin: 10px 0;" width="90%"/>
+</div>
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+En el Sprint 1, se ha desplegado el Landing Page, usando Netlify bajo el dominio ".netlify.app" de forma gratuita. Y se puede visualizar bajo el siguiente link: <a href="https://1asi0730-2510-4381-g5-rent2go.github.io/landing-page/">Landing page</a>
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Para el desarrollo de la Landing page, se utilizaron las siguientes tecnologías:
+
+- HTML: Lenguaje base para la creación de la estructura de una página web. 
+- CSS: Lenguaje de estilo para darle forma y diseño a las páginas web.
+- Git: Sistema de control de versiones para gestionar el desarrollo de software.
+- GitHub: Plataforma online para alojar repositorios Git. 
+
+Asimismo, para el despliegue de la página, se utilizó el servicio de Netlify.
+
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+Para llevar a cabo este proyecto se usaron distintas herramientas como Visual Studio Code; junto con manejo de versiones en Git. En este caso se dividio la landing page mostrada anteriormente en sectores, a partir de esto cada uno presentó su parte y luego un miembro juntó las partes para finalmente tener el resultado deseado.
+
+<img src="./assets/c05/contributionsLP.png" style="margin: 10px 0;" width="90%"/>
