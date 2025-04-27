@@ -354,6 +354,7 @@
   
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### Flujo Principal: Reserva de Auto
+![image](https://github.com/user-attachments/assets/8686b953-8ed2-423e-a033-d05a60a64359)
 ```mermaid
 graph TD
     A[Pantalla Inicio] -->|Clic en Búsqueda| B(Explorar Autos)
