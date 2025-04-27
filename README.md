@@ -355,25 +355,7 @@
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### Flujo Principal: Reserva de Auto
 ![image](https://github.com/user-attachments/assets/8686b953-8ed2-423e-a033-d05a60a64359)
-### Flujo Alternativo: Cancelación
-```mermaid
-graph LR
-    I[Pantalla Perfil] --> J{Mis Reservas}
-    J -->|Selecciona Reserva| K[Detalle Reserva]
-    K --> L{Acción}
-    L -->|Cancelar| M[Modal Confirmación]
-    M -->|Sí| N[Estado: Cancelada]
-    M -->|No| K
-```
-### Flujo Mobile
-```mermaid
-graph BT
-    O[Home] --> P{Búsqueda}
-    P -->|Scroll| Q[Autos Nearby]
-    Q --> R[Detalle Expandido]
-    R --> S[Checkout Sticky Footer]
-    S --> T[Pago Fullscreen]
-```
+
 ### 4.4.2. Web Applications Mock-ups.
 **Propósito**: Punto de entrada para exploración de autos  
 
