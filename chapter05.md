@@ -102,12 +102,12 @@ Convenciones:
 
 ### 5.1.4. Software Deployment Configuration
 
-Para el despliegue de nuestro Landing Page, usamos las siguientes herramientas.
+Para el despliegue de nuestra Landing Page, usamos las siguientes herramientas.
 
 - **Git**: Para realizar el manejo de las versiones del proyecto.
 - **GitHub**: Dentro de la plataforma tenemos un repositorio, lo usamos para almacenar todo el proyecto con sus respectivas versiones.
 - **GitFlow**: Esto permite visualizar y controlar el flujo de trabajo hecho por el equipo de desarrollo.
-- **GitHub Pages**: Nos permite desplegar nuestro Landing Page bajo el dominio de "[github.io](https://pages.github.com/)".
+- **GitHub Pages**: Nos permite desplegar nuestra Landing Page bajo el dominio de "[github.io](https://pages.github.com/)".
 
 Esto nos permite mantener el código organizado, legible y coherente a lo largo del proyecto.
 
@@ -456,5 +456,13 @@ Asimismo, para el despliegue de la página, se utilizó el servicio de Netlify.
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 Para llevar a cabo este proyecto se usaron distintas herramientas como Visual Studio Code; junto con manejo de versiones en Git. En este caso se dividio la landing page mostrada anteriormente en sectores, a partir de esto cada uno presentó su parte y luego un miembro juntó las partes para finalmente tener el resultado deseado.
+
+| Username (GitHub) | Nombre                       |
+|-------------------|------------------------------|
+| CarlosGC-LP       | Gonzalez Custodio, Carlos    |
+| Yair360           | Aru Acevedo, Yair Christofer |
+| feg06             | Chavez Uribe,Ario Joel       |
+| zxyfernando       | Salhuana Lopez, Fernando     |
+| bluexdev          | Alvarez Ponce, Carlos        |
 
 <img src="./assets/c05/contributionsLP.png" style="margin: 10px 0;" width="90%"/>
