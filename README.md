@@ -353,8 +353,7 @@
   - `"© 2024 AutoElite. Todos los derechos reservados."` (centrado).
   
 ### 4.4.2. Web Applications Wireflow Diagrams
-### Flujo Principal: Reserva de Auto
-![image](https://github.com/user-attachments/assets/8686b953-8ed2-423e-a033-d05a60a64359)
+![image](https://github.com/user-attachments/assets/bccfb33d-26be-4f99-9cd9-74ba55a07e02)
 
 ### 4.4.2. Web Applications Mock-ups.
 **Propósito**: Punto de entrada para exploración de autos  
