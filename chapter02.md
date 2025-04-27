@@ -319,12 +319,12 @@ A continuación se presenta el registro de las entrevistas realizadas a los segm
 
 <b> Entrevista 1 </b> 
 
-- Nombre: 
-- Apellidos: 
-- Edad: 
-- Distrito: 
+- Nombre: Cesar
+- Apellidos: Sulca 
+- Edad: 33
+- Distrito: Pueblo Libre
 - Link de la entrevista: <a href="link">Entrevista</a>
-- Duración: 5:46 minutos
+- Duración: 1:06 minutos
 - Inicio de la entrevista: 0:01 
 
 Evidencia de la reunión:
