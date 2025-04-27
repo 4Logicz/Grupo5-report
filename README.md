@@ -383,24 +383,8 @@
 ### 4.4.3. Web Applications User Flow Diagrams
 
 ### Flujo Completo: Reserva de Auto
-```mermaid
-graph TD
-    A[Inicio] --> B[/"Barra de búsqueda\n(ubicación, fechas)"/]
-    B --> C{¿Filtros?}
-    C -->|Sí| D[Pantalla de Filtros]
-    C -->|No| E[Listado de Autos]
-    D --> E
-    E --> F[/"Selección de auto\n(click en card)"/]
-    F --> G[Detalle de Auto]
-    G --> H{¿Disponible?}
-    H -->|Sí| I[Formulario de Reserva]
-    H -->|No| J[Notificación: No disponible]
-    J --> E
-    I --> K[Checkout de Pago]
-    K --> L{¿Pago exitoso?}
-    L -->|Sí| M[Confirmación + Email]
-    L -->|No| N[Reintentar/Alternativas]
-```
+![image](https://github.com/user-attachments/assets/bccfb33d-26be-4f99-9cd9-74ba55a07e02)
+
 ### 4.5. Web Applications Prototyping
 ![image](https://github.com/user-attachments/assets/3e23d0f2-b2ac-4850-abf2-c1f7090a839c)
 ![image](https://github.com/user-attachments/assets/6aef9684-4fe6-4c6c-ae7b-a7b383f5aadc)
