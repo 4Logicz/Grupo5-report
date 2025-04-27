@@ -184,7 +184,7 @@ logro del student outcome.
                 - Yair Aru: Durante esta entrega se distribuyo las tareas asignadas entre los miembros del equipo y se logró implementar la landing page.<br/>
                 - Carlos Gonzalez: El presente trabajo nos ayudo a contribuir de manera conjunta para lograr un mismo objetivo, logrando satisfactoriamente todas las tareas concernientes a este proyecto.<br/>
                 - Ario Chavez: Durante esta entrega se realizó las partes más importantes del informe como la definición del proyecto. <br/>
-                - Int4: <br/>
+                - Fernando Salhuana: Al ofrecer soluciones efectivas y facilitar el progreso del proyecto, he asegurado que todos los aspectos importantes se aborden de manera oportuna, lo que ha mejorado la cohesión del equipo. <br/>
                 - Int5: 
             </td>
             <td>
@@ -192,7 +192,7 @@ logro del student outcome.
                 - Yair Aru: Se estructuró de manera adecuada todos los puntos asignados para la entrega.<br/>
                 - Carlos Gonzalez: Se logro concluir con lo asignado para este proyecto en conjunto.<br/>
                 - Ario Chavez: Se cumplerion con todos los puntos a nivel informe proyectando para neuvas funcionalidades en nuestra aplicación. <br/>
-                - Int4: <br/>
+                - Fernando Salhuana: Se cumplió con los plazos y estándares esperados. Los informes han sido claros y concisos, facilitando la comprensión del contenido.<br/>
                 - Int5:
             </td>
         </tr>
@@ -203,7 +203,7 @@ logro del student outcome.
                 - Yair Aru: Para este outcome, se utilizaron las herramientas de Trello para la distribucion y planificación de las tareas asignadas a realizar<br/>
                 - Carlos Gonzalez: Pudimos designarnos de manera equitativa diferentes metas para lograr concluir el presente trabajo.<br/>
                 - Ario Chavez: Se utilizaron múltiples herramientas necesarias para el proyecto. <br/>
-                - Int4: <br/>
+                - Fernando Salhuana: Se utilizó las habilidades blandas para optimizar las puntos críticos del proyecto. <br/>
                 - Int5:
             </td>
             <td>
@@ -211,7 +211,7 @@ logro del student outcome.
                 - Yair Aru: Se logró con exito, completar las tareas asignadas para esta entrega.<br/>
                 - Carlos Gonzalez: Logramos concluir todos los objetivos propuestos.<br/>
                 - Ario Chavez: Se concretaron todas las tareas previsas en el proyecto. <br/>
-                - Int4: <br/>
+                - Fernando Salhuana: Se cumplió con los objetivos propuestos y con antelación. <br/>
                 - Int5:
             </td>
         </tr>
