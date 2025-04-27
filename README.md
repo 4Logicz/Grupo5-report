@@ -383,7 +383,7 @@
 ### 4.4.3. Web Applications User Flow Diagrams
 
 ### Flujo Completo: Reserva de Auto
-![image](https://github.com/user-attachments/assets/bccfb33d-26be-4f99-9cd9-74ba55a07e02)
+![image](https://github.com/user-attachments/assets/bccfb33d-26be-4f99-9cd9-74ba55a07e02) 
 
 ### 4.5. Web Applications Prototyping
 ![image](https://github.com/user-attachments/assets/3e23d0f2-b2ac-4850-abf2-c1f7090a839c)
