@@ -346,6 +346,12 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points.
             <td>3</td>
         </tr>
         <tr>
+            <td>HU02</td>
+            <td>Iniciar sesión con autenticación segura</td>
+            <td><strong>Como</strong> usuario, <strong>deseo</strong> iniciar sesión con mi cuenta de forma segura para acceder a mis funcionalidades.</td>
+            <td>2</td>
+        </tr>
+        <tr>
             <td>HU04</td>
             <td>Verificación de identidad</td>
             <td><strong>Como</strong> propietario y arrendatario, <strong>deseo</strong> que la plataforma verifique la identidad de los usuarios para asegurar la confiabilidad.</td>
@@ -356,6 +362,12 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points.
             <td>Publicar un vehículo para alquiler</td>
             <td><strong>Como</strong> propietario, <strong>deseo</strong> publicar mi vehículo para que pueda ser alquilado.</td>
             <td>3</td>
+        </tr>
+        <tr>
+            <td>HU16</td>
+            <td>Editar datos de vehículo publicado</td>
+            <td><strong>Como</strong> propietario, <strong>deseo</strong> editar los datos de mi vehículo publicado en caso de cambios.</td>
+            <td>2</td>
         </tr>
         <tr>
             <td>HU07</td>
@@ -386,6 +398,30 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points.
             <td>Recibir notificaciones de disponibilidad de vehículos</td>
             <td><strong>Como</strong> arrendatario, <strong>deseo</strong> recibir notificaciones cuando un vehículo que me interesa esté disponible.</td>
             <td>1</td>
+        </tr>
+        <tr>
+            <td>HU17</td>
+            <td>Compartir vehículo por redes sociales</td>
+            <td><strong>Como</strong> propietario, <strong>deseo</strong> compartir mi anuncio en redes sociales para llegar a más personas.</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>HU18</td>
+            <td>Ver ranking de usuarios confiables</td>
+            <td><strong>Como</strong> usuario, <strong>deseo</strong> ver la calificación promedio de otros usuarios para decidir con quién interactuar.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>HU19</td>
+            <td>Evaluar al arrendatario o propietario</td>
+            <td><strong>Como</strong> usuario, <strong>deseo</strong> dejar una calificación después de una experiencia de alquiler.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>HU20</td>
+            <td>Reportar incidentes</td>
+            <td><strong>Como</strong> usuario, <strong>deseo</strong> reportar problemas durante el alquiler para ser atendido por soporte.</td>
+            <td>3</td>
         </tr>
     </tbody>
 </table>
