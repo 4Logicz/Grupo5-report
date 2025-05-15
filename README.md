@@ -59,19 +59,19 @@ Para describir nuestra startup de forma ordenada y organizada, emplearemos un t�
 A partir del análisis del contexto y la investigación realizada, se identificaron los siguientes Problem Statements que dan forma a la propuesta de valor de **Rent2Go**, una plataforma peer-to-peer de alquiler de vehículos:
 
 - **Problem Statement 1: Acceso limitado a opciones accesibles de alquiler de vehículos**
-    - Las soluciones actuales de alquiler de vehículos son costosas y poco flexibles, lo cual representa una barrera para los arrendatarios que buscan opciones de movilidad temporal más económicas.
+    - Actualmente, los propietarios de vehículos en zonas urbanas del Perú carecen de plataformas eficientes para ofrecer sus vehículos en alquiler de forma directa. Esto limita su capacidad para monetizar un activo subutilizado, mientras que los arrendatarios tienen dificultades para encontrar opciones confiables y accesibles de movilidad temporal.
     - **Solution**: Crear una plataforma que permita a los arrendatarios acceder a vehículos de manera directa, flexible y a precios más competitivos, aprovechando la oferta de vehículos disponibles de particulares.
 
 - **Problem Statement 2: Dificultad para monetizar vehículos no utilizados por parte de los propietarios**
-    - Muchos propietarios de vehículos no cuentan con herramientas eficientes para generar ingresos a partir de sus autos cuando no los utilizan.
+    - En la actualidad, existe una brecha significativa en el mercado de alquiler de vehículos en el Perú: la falta de una plataforma confiable y accesible que conecte directamente a propietarios de autos con arrendatarios. Este vacío impide a los propietarios generar ingresos mediante el alquiler de sus vehículos y a los arrendatarios acceder a alternativas más económicas y flexibles que las ofrecidas por empresas tradicionales.
     - **Solution**: Desarrollar una solución que permita a los propietarios listar fácilmente sus vehículos para alquiler, con control sobre la disponibilidad, condiciones y precios, maximizando así el uso de sus bienes.
 
 - **Problem Statement 3: Escasez de modelos de negocio sin necesidad de flota propia**
-    - Las empresas tradicionales de alquiler requieren grandes inversiones en flota, lo cual limita su escalabilidad y capacidad de innovación.
+    - El mercado peruano de movilidad urbana presenta una oportunidad para introducir una plataforma digital peer-to-peer que permita a los propietarios de vehículos generar ingresos alquilándolos y a los arrendatarios encontrar una alternativa confiable para transporte temporal. Actualmente, el mercado carece de soluciones accesibles que brinden esta funcionalidad de forma directa y segura. 
     - **Solution**: Implementar un modelo peer-to-peer donde la plataforma actúe como intermediario tecnológico, eliminando la necesidad de adquirir vehículos propios y reduciendo barreras de entrada al mercado.
 
 - **Problem Statement 4: Ausencia de una plataforma escalable y confiable que conecte oferta y demanda en tiempo real**
-    - Actualmente no existe una solución integral que permita la conexión eficiente y segura entre propietarios y arrendatarios en un entorno de confianza mutua.
+    - El desarrollo de la plataforma Rent2Go enfrenta ciertas restricciones clave que deben considerarse desde el inicio. En primer lugar, se requiere implementar mecanismos de seguridad robustos para proteger tanto a los propietarios como a los arrendatarios, incluyendo la verificación de perfiles y contratos digitales. Además, se deben establecer políticas claras sobre el uso del vehículo, cobertura de seguros y resolución de conflictos.
     - **Solution**: Diseñar una plataforma tecnológica robusta que gestione reservas, pagos, comunicación y verificación de usuarios de forma centralizada, garantizando una experiencia segura y fluida para ambas partes.
 
 - **Problem Statement 5: Falta de validación social y crecimiento orgánico del modelo**
