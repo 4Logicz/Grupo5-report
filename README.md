@@ -30,7 +30,6 @@ logro del student outcome.
                 - Carlos Gonzalez: El desarrollo de este proyecto nos permitió colaborar de manera efectiva como equipo, alineando nuestros esfuerzos hacia un objetivo común. Gracias a la organización, comunicación y compromiso de todos los integrantes, logramos completar satisfactoriamente las tareas asignadas, cumpliendo con los objetivos establecidos.<br/>
             </td>
             <td>
-            <td>
                 TB1: <br/>
                 - Yair Aru: Se estructuró de manera adecuada todos los puntos asignados para la entrega.<br/>
                 - Carlos Gonzalez: Se logro concluir con lo asignado para este proyecto en conjunto.<br/>
