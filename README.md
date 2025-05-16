@@ -61,6 +61,7 @@ logro del student outcome.
                 TP: <br/>
                 - Carlos Gonzalez: Logramos distribuir de forma equitativa las responsabilidades y metas individuales, lo que permitió avanzar de manera ordenada y efectiva hacia la conclusión del presente proyecto.<br/>
                 - Ario Chavez: Logramos realizar las actividades propuestas de forma responsable, esto con el objetivo de mejorar y ampliar nuestros conocimientos académicos.
+                - Fernando Salhuana: Actualizamos el proyecto para la entrega. Correciones generales según la primera entrega. <br/>
             </td>
             <td>
                 TB1: <br/>
@@ -73,7 +74,7 @@ logro del student outcome.
                 <br/>
                 TP: <br/>
                 - Carlos Gonzalez: Todos los objetivos planteados fueron alcanzados de forma eficiente, gestionando adecuadamente los tiempos y asegurando que el resultado final respondiera a los criterios de calidad esperados en un entorno de desarrollo web.<br/>
-                -Ario Chavez: La respoonsabilidad mutua fue importante, logramos nuestros objetivos de manera sastifactoria, inspirando a escalar el proyecto a futuras propuestas.
+                -Ario Chavez: La respoonsabilidad mutua fue importante, logramos nuestros objetivos de manera sastifactoria, inspirando a escalar el proyecto a futuras propuestas. <br/>
                 - Fernando Salhuana: Los objetivos fueron alcanzados en antes del plazo de tiempo. La distribución de asignación fue en base a cada habilidad de cada integrante. <br/>
             </td>
         </tr>
