@@ -29,6 +29,7 @@ logro del student outcome.
                 <br/>
             TP: <br/>
                 - Carlos Gonzalez: El desarrollo de este proyecto nos permitió colaborar de manera efectiva como equipo, alineando nuestros esfuerzos hacia un objetivo común. Gracias a la organización, comunicación y compromiso de todos los integrantes, logramos completar satisfactoriamente las tareas asignadas, cumpliendo con los objetivos establecidos.<br/>
+                - Ario Chavez: Esta actividad nos permitió colaborar a manera de equipo, reforzando múltiples disciplinas mediante la comunicación, apoyo y trabajo para esta actividad. 
             </td>
             <td>
                 TB1: <br/>
@@ -41,6 +42,7 @@ logro del student outcome.
                 <br/>
                 TP: <br/>
                 - Carlos Gonzalez: Se alcanzaron los objetivos planteados para este proyecto mediante un trabajo colaborativo y coordinado, cumpliendo con cada una de las tareas asignadas de manera oportuna y eficiente.<br/>
+                - Ario Chavez: Se lograron los objetivos para esta entrega desde la distribución de las actividades hasta las metas propuestas como equipo.<br/>
             </td>
         </tr>
         <tr>
@@ -56,6 +58,7 @@ logro del student outcome.
                 <br/>
                 TP: <br/>
                 - Carlos Gonzalez: Logramos distribuir de forma equitativa las responsabilidades y metas individuales, lo que permitió avanzar de manera ordenada y efectiva hacia la conclusión del presente proyecto.<br/>
+                - Ario Chavez: Logramos realizar las actividades propuestas de forma responsable, esto con el objetivo de mejorar y ampliar nuestros conocimientos académicos.
             </td>
             <td>
                 TB1: <br/>
@@ -68,6 +71,7 @@ logro del student outcome.
                 <br/>
                 TP: <br/>
                 - Carlos Gonzalez: Todos los objetivos planteados fueron alcanzados de forma eficiente, gestionando adecuadamente los tiempos y asegurando que el resultado final respondiera a los criterios de calidad esperados en un entorno de desarrollo web.<br/>
+                -Ario Chavez: La respoonsabilidad mutua fue importante, logramos nuestros objetivos de manera sastifactoria, inspirando a escalar el proyecto a futuras propuestas.
             </td>
         </tr>
     </tbody>
