@@ -82,9 +82,11 @@ A partir del análisis del contexto y la investigación realizada, se identifica
     - **¿A quién afecta?** Tanto a propietarios como a arrendatarios.
     - **Solución propuesta:** Incorporar verificación de identidad, contratos digitales, seguros, políticas claras y soporte 24/7 para garantizar una experiencia segura.
 
-- **Problem Statement 5: Falta de validación social y crecimiento orgánico del modelo**
-    - La adopción de este tipo de plataformas depende en gran medida de la confianza del usuario y las recomendaciones de terceros.
-    - **Solution**: Fomentar un modelo de crecimiento basado en la experiencia positiva del usuario, incorporando funcionalidades de calificación, comentarios y programas de referidos para estimular la expansión orgánica de la comunidad.
+- **Problem Statement 5: Crecimiento limitado por falta de validación social**
+    - **¿Qué sucede?** Los usuarios nuevos se basan en recomendaciones y experiencias previas para tomar decisiones.
+    - **¿Por qué es un problema?** Sin confianza, no hay expansión.
+    - **¿A quién afecta?** A toda la comunidad de la plataforma.
+    - **Solución propuesta:** Activar mecanismos de calificación, comentarios, referidos y recompensas que fortalezcan la reputación colectiva.
 
 Rent2Go se propone como una solución innovadora, accesible y escalable dentro del sector del alquiler de vehículos, ofreciendo beneficios económicos tanto a propietarios como a arrendatarios, y resolviendo las limitaciones del modelo tradicional.
 
