@@ -24,8 +24,8 @@ logro del student outcome.
                 - Carlos Gonzalez: El presente trabajo nos ayudo a contribuir de manera conjunta para lograr un mismo objetivo, logrando satisfactoriamente todas las tareas concernientes a este proyecto.<br/>
                 - Ario Chavez: Durante esta entrega se realizó las partes más importantes del informe como la definición del proyecto. <br/>
                 - Fernando Salhuana: Al ofrecer soluciones efectivas y facilitar el progreso del proyecto, he asegurado que todos los aspectos importantes se aborden de manera oportuna, lo que ha mejorado la cohesión del equipo. <br/>
-                - Carlos Alvarez: Durante esta entrega participé activamente en la coordinación del equipo, ayudando a distribuir de manera equitativa las tareas relacionadas al desarrollo, asegurando que cada integrante pudiera enfocarse en su especialidad, optimizando así los tiempos de entrega. 
-            </td>
+                - Carlos Alvarez: Durante esta entrega participé activamente en la coordinación del equipo, ayudando a distribuir de manera equitativa las tareas relacionadas al desarrollo, asegurando que cada integrante pudiera enfocarse en su especialidad, optimizando así los tiempos de entrega.
+                <br/>
             TP: <br/>
                 - Carlos Gonzalez: El desarrollo de este proyecto nos permitió colaborar de manera efectiva como equipo, alineando nuestros esfuerzos hacia un objetivo común. Gracias a la organización, comunicación y compromiso de todos los integrantes, logramos completar satisfactoriamente las tareas asignadas, cumpliendo con los objetivos establecidos.<br/>
             </td>
