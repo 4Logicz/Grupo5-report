@@ -52,6 +52,10 @@ logro del student outcome.
                 - Ario Chavez: Se utilizaron múltiples herramientas necesarias para el proyecto. <br/>
                 - Fernando Salhuana: Se utilizó las habilidades blandas para optimizar las puntos críticos del proyecto. <br/>
                 - Carlos Alvarez: Participé en la organización del flujo de trabajo dividiendo el proyecto en fases lógicas. Asigné prioridades a funcionalidades clave. También facilité la revisión entre compañeros para detectar errores a tiempo y mejorar la calidad del código.
+                <br/>
+                <br/>
+                TP: <br/>
+                - Carlos Gonzalez: Logramos distribuir de forma equitativa las responsabilidades y metas individuales, lo que permitió avanzar de manera ordenada y efectiva hacia la conclusión del presente proyecto.<br/>
             </td>
             <td>
                 TB1: <br/>
@@ -60,6 +64,10 @@ logro del student outcome.
                 - Ario Chavez: Se concretaron todas las tareas previsas en el proyecto. <br/>
                 - Fernando Salhuana: Se cumplió con los objetivos propuestos y con antelación. <br/>
                 - Carlos Alvarez: Se cumplieron todos los objetivos establecidos de manera eficiente, optimizando los tiempos de entrega y garantizando que el proyecto final cumpliera con los estándares de calidad en desarrollo web.
+                <br/>
+                <br/>
+                TP: <br/>
+                - Carlos Gonzalez: Todos los objetivos planteados fueron alcanzados de forma eficiente, gestionando adecuadamente los tiempos y asegurando que el resultado final respondiera a los criterios de calidad esperados en un entorno de desarrollo web.<br/>
             </td>
         </tr>
     </tbody>
