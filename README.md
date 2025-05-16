@@ -578,4 +578,4 @@ Para llevar a cabo este proyecto se usaron distintas herramientas como Visual St
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
-#### .2.2.8.Team Collaboration Insights during Sprint.
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
