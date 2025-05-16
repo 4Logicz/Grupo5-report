@@ -278,7 +278,7 @@ Esto nos permite mantener el código organizado, legible y coherente a lo largo 
         </td>
   </tr>
 </table>
-</br>
+
 
 #### 5.2.1.2. Sprint Backlog 1
 
@@ -466,3 +466,116 @@ Para llevar a cabo este proyecto se usaron distintas herramientas como Visual St
 | bluexdev          | Alvarez Ponce, Carlos        |
 
 <img src="./assets/c05/contributionsLP.png" style="margin: 10px 0;" width="90%"/>
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1.Sprint Planning 2.
+
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 2</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            09/05/25   
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            21:00         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad Remota por Meet Google  
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes 4Logicz  
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Chavez Uribe, Ario Joel	<br>
+            - Alvarez Ponce, Carlos Antonio <br>
+            - Aru Acevedo, Yair Christofer <br>
+            - Gonzalez Custodio, Carlos Alberto <br>
+            - Salhuana Lopez, Fernando Jose <br>
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 2</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            El sprint anterior definio el objetivo del proyecto para el desarrollo de este sprint utilizando las historias de usuario.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 2</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+          Se ha mejorado el reporte del proyecto actualizando los puntos solicitados a mejorar y se logro a partir de ahi, implementar el frontend de nuestro proyecto.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 2 Velocity</b>
+        </td>
+        <td>
+            6
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            6
+        </td>
+  </tr>
+</table>
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+#### 5.2.2.3.Sprint Backlog 2.
+#### 5.2.2.4.Development Evidence for Sprint Review.
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+#### .2.2.8.Team Collaboration Insights during Sprint.
