@@ -202,6 +202,7 @@ logro del student outcome.
                 <br/>
                 <br/>
             TP: <br/>
+                - Yair Aru: Se trabajo en equipo para la elaboracion de la correccion de tareas en el reporte.
                 - Carlos Gonzalez: El desarrollo de este proyecto nos permitió colaborar de manera efectiva como equipo, alineando nuestros esfuerzos hacia un objetivo común. Gracias a la organización, comunicación y compromiso de todos los integrantes, logramos completar satisfactoriamente las tareas asignadas, cumpliendo con los objetivos establecidos.<br/>
                 - Ario Chavez: Esta actividad nos permitió colaborar a manera de equipo, reforzando múltiples disciplinas mediante la comunicación, apoyo y trabajo para esta actividad. <br/>
                 - Carlos Alvarez: Durante esta entrega colaboré de manera activa en las reuniones del equipo, ayudando a coordinar la distribución de actividades y asegurando que cada integrante comprendiera su rol. Además, propuse soluciones para optimizar el flujo de trabajo y facilitar la integración de las tareas, lo que permitió culminar el proyecto de manera ordenada y eficiente.<br/>
@@ -216,6 +217,7 @@ logro del student outcome.
                 <br/>
                 <br/>
                 TP: <br/>
+                - Yair Aru: Se logró corregir las tareas asignados para la entrega.
                 - Carlos Gonzalez: Se alcanzaron los objetivos planteados para este proyecto mediante un trabajo colaborativo y coordinado, cumpliendo con cada una de las tareas asignadas de manera oportuna y eficiente.<br/>
                 - Ario Chavez: Se lograron los objetivos para esta entrega desde la distribución de las actividades hasta las metas propuestas como equipo.<br/>
                 - Carlos Alvarez: Se logró una colaboración efectiva en el equipo, cumpliendo con los objetivos propuestos en tiempo y forma. La comunicación y el compromiso de cada integrante fueron clave para alcanzar los resultados planteados y asegurar la calidad del proyecto final.<br/>
@@ -240,7 +242,7 @@ logro del student outcome.
             </td>
             <td>
                 TB1: <br/>
-                - Yair Aru: Se logró con exito, completar las tareas asignadas para esta entrega.<br/>
+                - Yair Aru: Se establecieron metas para el desarrollo y correccion del reporte y frontend.<br/>
                 - Carlos Gonzalez: Logramos concluir todos los objetivos propuestos.<br/>
                 - Ario Chavez: Se concretaron todas las tareas previsas en el proyecto. <br/>
                 - Fernando Salhuana: Se cumplió con los objetivos propuestos y con antelación. <br/>
@@ -248,6 +250,7 @@ logro del student outcome.
                 <br/>
                 <br/>
                 TP: <br/>
+                - Yair Aru: Se logró con exito, completar las tareas asignadas para esta entrega.
                 - Carlos Gonzalez: Todos los objetivos planteados fueron alcanzados de forma eficiente, gestionando adecuadamente los tiempos y asegurando que el resultado final respondiera a los criterios de calidad esperados en un entorno de desarrollo web.<br/>
                 - Ario Chavez: La respoonsabilidad mutua fue importante, logramos nuestros objetivos de manera sastifactoria, inspirando a escalar el proyecto a futuras propuestas.<br/>
                 - Carlos Alvarez: El trabajo en equipo permitió cumplir con éxito las metas establecidas. La coordinación y el compromiso de todos los integrantes resultaron fundamentales para alcanzar los objetivos y entregar un proyecto de calidad, cumpliendo los tiempos y estándares definidos.<br/>
