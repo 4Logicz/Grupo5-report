@@ -574,7 +574,21 @@ Para llevar a cabo este proyecto se usaron distintas herramientas como Visual St
 
 #### 5.2.2.2. Aspect Leaders and Collaborators.
 #### 5.2.2.3.Sprint Backlog 2.
+| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
+| HU06 | Publicar un vehículo para alquiler  | TS01 | Componente de Publicación de un vehículo para alquiler	 | Implementación de la funcionalidad para publicar el vehículo del propietario. | 4 | Ario | Done                                   |
+| HU07 | Buscar vehículos disponibles   | TS02 | Implementación de la Búsqueda de vehículos disponibles  	 | Creación de la Búsqueda de vehiculos, permitiendo un acceso a diferentes opciones en base a disponibilidad. | 5               | Ario   | Done                          |
+| HU11 | 	Calcular tarifas de alquiler  | TS04 | 	Desarrollo del cálculo respecto a las tarifas de alquiler | Creación del método de disponibilidad de un vehículo. | 6 | Ario | Done                                   |
+| HU13 | 	Ver historial de alquileres | TS03 | Implementación de historial de alquileres	| Implementación de historial respecto a la entrega del vehículo | 5 | Ario  | Done
+
+En este sprint se implementaron funcionalidades clave como la realización de ingresoa la aplicación, opciones básicas de interacción como búsqueda, selección y entrega del vehículo, mantenemos un enfoque de facilidad para el usuario, de modo que no le tome mucho tiempo realizar dichas operaciones.
+
 #### 5.2.2.4.Development Evidence for Sprint Review.
+| Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
+|:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
+| [Rent2Go <br> FrontEnd](https://rent2go.netlify.app/) | main | b343a7e | initial commit |  | 15/05/2025 |
+| FrontEnd | main | b343a7e | Uploaded Home Components | 23cc37a | 15/05/20254 |
+| FrontEnd | main | b343a7e | Uploaded Vehicules Components  | 737f3a2 | 15/05/2025 |
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
