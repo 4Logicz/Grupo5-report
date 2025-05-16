@@ -28,6 +28,7 @@ logro del student outcome.
                 <br/>
                 <br/>
             TP: <br/>
+                - Yair Aru: Durante esta entrega se organizó el equipo para corregir los puntos mencionados logrando completar las tareas e implementando el sprint 2 con el frontend.
                 - Carlos Gonzalez: El desarrollo de este proyecto nos permitió colaborar de manera efectiva como equipo, alineando nuestros esfuerzos hacia un objetivo común. Gracias a la organización, comunicación y compromiso de todos los integrantes, logramos completar satisfactoriamente las tareas asignadas, cumpliendo con los objetivos establecidos.<br/>
                 - Ario Chavez: Esta actividad nos permitió colaborar a manera de equipo, reforzando múltiples disciplinas mediante la comunicación, apoyo y trabajo para esta actividad. 
                 - Fernando Salhuana: Este proyecto fomentó la correción de ciertos puntos del informe para evitar futuros errores en cuanto a la investigación y desarrollo de las secciones. <br/>
@@ -42,6 +43,7 @@ logro del student outcome.
                 <br/>
                 <br/>
                 TP: <br/>
+                - Yair Aru: Se logró corregir todos los errores indicando en la entrega anterior.<br/>
                 - Carlos Gonzalez: Se alcanzaron los objetivos planteados para este proyecto mediante un trabajo colaborativo y coordinado, cumpliendo con cada una de las tareas asignadas de manera oportuna y eficiente.<br/>
                 - Ario Chavez: Se lograron los objetivos para esta entrega desde la distribución de las actividades hasta las metas propuestas como equipo.<br/>
                 - Fernando Salhuana: Este proyecto fomentó la correción de ciertos puntos del informe para evitar futuros errores en cuanto a la investigación y desarrollo de las secciones. <br/>
@@ -59,6 +61,7 @@ logro del student outcome.
                 <br/>
                 <br/>
                 TP: <br/>
+                - Yair Aru: Se establecieron fechas para las entregas de avance y se colaboró eficientemente en las tareas asignadas para el desarrollo del frontend.<br/>
                 - Carlos Gonzalez: Logramos distribuir de forma equitativa las responsabilidades y metas individuales, lo que permitió avanzar de manera ordenada y efectiva hacia la conclusión del presente proyecto.<br/>
                 - Ario Chavez: Logramos realizar las actividades propuestas de forma responsable, esto con el objetivo de mejorar y ampliar nuestros conocimientos académicos.
             </td>
@@ -72,6 +75,7 @@ logro del student outcome.
                 <br/>
                 <br/>
                 TP: <br/>
+                - Yair Aru: Se logró diseñar la primera version de la aplicación web para esta entrega.<br/>
                 - Carlos Gonzalez: Todos los objetivos planteados fueron alcanzados de forma eficiente, gestionando adecuadamente los tiempos y asegurando que el resultado final respondiera a los criterios de calidad esperados en un entorno de desarrollo web.<br/>
                 -Ario Chavez: La respoonsabilidad mutua fue importante, logramos nuestros objetivos de manera sastifactoria, inspirando a escalar el proyecto a futuras propuestas.
                 - Fernando Salhuana: Los objetivos fueron alcanzados en antes del plazo de tiempo. La distribución de asignación fue en base a cada habilidad de cada integrante. <br/>
