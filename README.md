@@ -233,6 +233,7 @@ logro del student outcome.
                 <br/>
                 <br/>
                 TP: <br/>
+                - Yair Aru: Para esta entrega, se logró cumplir las metas establecidas en las reuniones.
                 - Carlos Gonzalez: Logramos distribuir de forma equitativa las responsabilidades y metas individuales, lo que permitió avanzar de manera ordenada y efectiva hacia la conclusión del presente proyecto.<br/>
                 - Ario Chavez: Logramos realizar las actividades propuestas de forma responsable, esto con el objetivo de mejorar y ampliar nuestros conocimientos académicos.<br/>
                 - Carlos Alvarez: Me encargué de coordinar la planificación de las tareas, asegurando que todos los miembros del equipo tuvieran claridad sobre sus responsabilidades. Además, fomenté la participación inclusiva y el intercambio de ideas para fortalecer la colaboración y el cumplimiento de los objetivos comunes.<br/>
