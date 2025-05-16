@@ -38,7 +38,8 @@ logro del student outcome.
                 - Fernando Salhuana: Se cumplió con los plazos y estándares esperados. Los informes han sido claros y concisos, facilitando la comprensión del contenido.<br/>
                 - Carlos Alvarez: Se fortaleció el trabajo en equipo mediante una comunicación constante y eficiente, logrando cumplir con los roles asignados y asegurando que el proyecto avanzara de forma colaborativa y efectiva.
                 <br/>
-                TB1: <br/>
+                <br/>
+                TP: <br/>
                 - Carlos Gonzalez: Se alcanzaron los objetivos planteados para este proyecto mediante un trabajo colaborativo y coordinado, cumpliendo con cada una de las tareas asignadas de manera oportuna y eficiente.<br/>
             </td>
         </tr>
